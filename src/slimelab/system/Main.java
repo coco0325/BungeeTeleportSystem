@@ -1,8 +1,9 @@
 package slimelab.system;
 
-import org.bukkit.plugin.java.JavaPlugin;
+import net.md_5.bungee.api.ProxyServer;
+import net.md_5.bungee.api.plugin.Plugin;
 
-public class Main extends JavaPlugin {
+public class Main extends Plugin {
 	
 	public void onEnable() {
 		
