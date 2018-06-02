@@ -1,6 +1,7 @@
 package slimelab.system.utils;
 
 public class Warp {
+	
 	private String name;
 	private Location location;
 	

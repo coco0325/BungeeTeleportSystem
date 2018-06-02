@@ -3,6 +3,7 @@ package slimelab.system.utils;
 import net.md_5.bungee.api.config.ServerInfo;
 
 public class Location {
+	
 	private ServerInfo server;
 	private String world;
 	private double x,y,z;
